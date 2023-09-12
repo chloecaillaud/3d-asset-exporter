@@ -1,0 +1,19 @@
+<svg id="folder" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccc;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #a8a8a8;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M256,192H0V96H240a16,16,0,0,1,16,16v24H512v16H279.21ZM501.525,448A15.924,15.924,0,0,1,496,449H16a15.92,15.92,0,0,1-5.525-1h491.05Z"/>
+  <path id="folder_front" class="cls-2" d="M496,448H16A16,16,0,0,1,0,432V192H256l23.21-40H512V432A16,16,0,0,1,496,448Z"/>
+</svg>

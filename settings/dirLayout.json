@@ -1,0 +1,12 @@
+{
+    "assets":"./assets/"
+    ,  "texs":"./textures/"
+    ,  "imgs":
+    {
+        "beauty":"./imgs/still/beauty/"
+        ,"gray":"./imgs/still/lighting/"
+        ,"wire":"./imgs/still/wire/"
+    }
+    ,"vids":"./imgs/tt/"
+    ,"output":"../output/"
+}

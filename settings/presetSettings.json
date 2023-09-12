@@ -1,0 +1,56 @@
+{
+    "Cgtrader":
+    {
+        "req":
+        {
+            "assets_format":[".fbx", ".obj", ".mtl", ".glb", ".gltf", ".blend", ".zip"]
+            , "texs_format":[".png"]
+            , "texs_suffix":["BaseColor", "Metallic", "Roughness", "AO", "Packed_MRA", "Height", "NormalGL", "NormalDX", "Emissive"]
+            , "imgs_format":[".png"]
+            , "vids_format":[".mp4"]
+        }
+        ,"output":
+        {
+            "assets":"./assets/"
+            , "texs":"./textures/"
+            , "imgs":"./imgs/"
+            , "vids":"./imgs/"
+        }
+    }
+    ,"Sketchfab":
+    {
+        "req":
+        {
+            "assets_format":[".fbx", ".obj", ".mtl", ".glb", ".gltf", ".zip"]
+            , "texs_format":[".png"]
+            , "texs_suffix":["BaseColor", "Metallic", "Roughness", "AO", "Packed_MRA", "Height", "NormalGL", "NormalDX", "Emissive"]
+            , "imgs_format":[".png"]
+            , "vids_format":[".mp4"]
+        }
+        ,"output":
+        {
+            "assets":"./assets/"
+            , "texs":"./textures/"
+            , "imgs":"./imgs/"
+            , "vids":"./imgs/"
+        }
+    }
+    ,"Unreal_Marketplace":
+    {
+        "req":
+        {
+            "assets_format":[".zip"]
+            , "texs_format":[]
+            , "texs_suffix":[]
+            , "imgs_format":[".png"]
+            , "vids_format":[".mp4"]
+        }
+        ,"output":
+        {
+            "assets":"./assets/"
+            , "texs":"./textures/"
+            , "imgs":"./imgs/"
+            , "vids":"./imgs/"
+        }
+    }
+}
