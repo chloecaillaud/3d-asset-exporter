@@ -50,13 +50,13 @@ all paths are relative to the above shortcut / specified path
 ## Gallery
 all images bellow use the provided `presetSettings.json` file for demonstration purposes:  
 
-![Algorithm schema](./docsImages/presetSelectionWindow.png)  
+![preset selection window](./docsImages/presetSelectionWindow.png)  
 dark mode view of the preset selection window  
 
-![Algorithm schema](./docsImages/overviewWindowDark.png)  
+![overview window darkmode](./docsImages/overviewWindowDark.png)  
 dark mode view of the overview window  
 
-![Algorithm schema](./docsImages/overviewWindowLight.png)  
+![overview window lightmode](./docsImages/overviewWindowLight.png)  
 light mode view of the overview window  
 
 ## License
